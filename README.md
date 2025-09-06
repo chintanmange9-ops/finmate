@@ -8,4 +8,10 @@
   Run `npm install` to install the dependencies.
 
   Run `npm run dev` to start the development server.
+
+  ## 🎥 Demo Video
+
+Watch the demo on Google Drive:  
+[![Watch the demo](https://img.shields.io/badge/Watch%20Demo%20on%20Google%20Drive-green?logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1eJHeuS-SZT8RcmhVshr7fq7Tehl9sLO2/view?usp=drive_link)
+
   
